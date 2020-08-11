@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# Experience
+## Cisco Systems Berlin, Germany
+### Consulting Engineer - Public Sector
+#### Sept ’19 – Present
+Part of a small team supporting Germany’s critical infrastructure. My role requires me to become
+familiar with a new Cisco technology in a matter of days, and produce a detailed recommendation.
 
-You can use the [editor on GitHub](https://github.com/DavidMorp/DavidMorp.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## SPAN Networks Eynsham, Oxford, UK
+### Junior Engineer 
+#### Feb ’15 – Dec ’16
+SPAN Network provides managed IT services. I was in charge of maintaining the High Density
+Virtualization Environment, and its relative Software Defined Network. I would also take support call
+and regularly be on our clients’ site to address issues that could not be dealt with remotely.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DavidMorp/DavidMorp.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Plastic Metal SpA Vicenza, Italy
+### Webmaster & SEO 
+#### Mar ’14 – Sept ’14
+I had to rebuild their website using Joomla, it had to be SEO friendly and multilingual.
