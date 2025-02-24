@@ -3,7 +3,7 @@
 ##### Berlin, Germany
 ### Senior Site Reliability Engineer - TCoE
 #### Oct ’23 - present
-The Technology Centre of Excellence BU  provides managed cloud services to the Lufthansa Group and 350 other airlines. Part of the Network Platform Team, I am responsible for the development of the Terraform deployments of new Landing Zone Hubs in GCP and Azure. I also manage the team's GitHub Org and our pipelines and assist our customers needing tailor made solutions.
+The Technology Centre of Excellence BU  provides managed cloud services to the Lufthansa Group and 350 other airlines. As part of the Network Platform Team, I develop Terraform-based infrastructure for new Landing Zone Hubs in GCP and Azure. I also manage the team's GitHub Org, our pipelines and assist customers needing tailor made solutions within our cloud platform.
 
 ## Cisco Systems GmbH
 ##### Berlin, Germany
