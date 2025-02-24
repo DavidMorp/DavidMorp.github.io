@@ -1,9 +1,15 @@
 # Experience
-## Placetel, part of Cisco
+## Lufthansa Systems GmbH
 ##### Berlin, Germany
-### DevOps Engineer
-#### May ’20 – Present
-Part of the team responsible for the infrastructure of Placetel, I mainly focus on the development of our IaC.
+### Senior Site Reliability Engineer - TCoE
+#### Oct ’23 - present
+The Technology Centre of Excellence BU  provides managed cloud services to the Lufthansa Group and 350 other airlines. Part of the Network Platform Team, I am responsible for the development of the Terraform deployments of new Landing Zone Hubs in GCP and Azure. I also manage the team's GitHub Org and our pipelines and assist our customers needing tailor made solutions.
+
+## Cisco Systems GmbH
+##### Berlin, Germany
+### DevOps Engineer - Placetel
+#### May ’20 – Sept ’23
+Placetel is a small and mighty VoIP cloud provider. Here, I kickstarted the development of a new Ansible CI/CD pipeline to better manage our hybrid on-prem/cloud infrastructure; I also helped with maintaining the fabric, the management network, the systems (both metal and cloud), and was involved in planning upgrades and expansion of the infrastructure.
 
 ## Cisco Systems GmbH
 ##### Berlin, Germany
